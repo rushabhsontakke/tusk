@@ -9,3 +9,6 @@ Pizza
 Kheer
 Pasta
 Paneer Tikka
+
+noodles 
+maggi
